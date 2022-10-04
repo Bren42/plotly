@@ -33,7 +33,19 @@ I added a description below this element as well to describe what was being view
 Finally we added a few more visual customizations. 
 
 1. In the CSS file we changed the font style to Bauhaus 93 for the jumbotron text and added a custom image, I also added a darken tint to the image to make the text less difficult to read and moved the second line of text down.
+
 2. All three charts were realigned in spacing within each items HTML container.
-3. All three 
+
+3. I changed the background color of the page to aliciablue.
+
+4. I also went back into the JS code and under each charts layout variable I made the chart transparent so it would blend in with the page background.
+
+![This is an image](https://github.com/Bren42/plotly/blob/main/static/images/transparent.png?raw=true)
+
+If you would like to view the page and its functionality I have created a github page for it.
+
+Here is the webpage version of this readme: https://bren42.github.io/plotly/
+
+Here is the link to the belly button biodiversity page: https://bren42.github.io/plotly/static/
 
 
