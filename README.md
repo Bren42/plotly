@@ -41,7 +41,7 @@ Finally we added a few more visual customizations.
 
 4. I also went back into the JS code and under each charts layout variable I made the chart transparent so it would blend in with the page background.
 
-![This is an image](https://github.com/Bren42/plotly/blob/main/static/images/transparent.png?raw=true)
+![This is an image](https://github.com/Bren42/plotly/blob/main/images/transparent.png?raw=true)
 
 If you would like to view the page and its functionality I have created a github page for it.
 
