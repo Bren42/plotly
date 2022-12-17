@@ -11,12 +11,12 @@ To do this we needed to take the data supplied to us in the JSON format and buil
 We started with the demographics panel to give the users a way to select from a drop down and immediately see the critical test subject data.
 This output was customized in the CSS style sheet to bold the demograpic text.
 
-![This is an image](https://github.com/Bren42/plotly/blob/main/static/images/demographics.png?raw=true)
+![This is an image](https://github.com/Bren42/plotly/blob/main/images/demographics.png?raw=true)
 
 Once selected the user would see the first graph which would list the top ten bacterias of the test subject.
 I added a descriptor paragraph HTML item at the bottom of the graph to customize this output and make it easier for the user to understand what they were looking at.
 
-![This is an image](https://github.com/Bren42/plotly/blob/main/static/images/top_ten.png?raw=true)
+![This is an image](https://github.com/Bren42/plotly/blob/main/images/top_ten.png?raw=true)
 
 We then moved to the wash frequency, which is important as a measure of time that the bacteria has to grow, it may even have correlation to the cultures per sample outcomes. 
 
@@ -28,7 +28,8 @@ The last item we added was the bubble chart where we show the different bacteria
 
 I added a description below this element as well to describe what was being viewed.
 
-![This is an image](https://github.com/Bren42/plotly/blob/main/static/images/cultures_per_sample.png?raw=true)
+![This is an image](https://github.com/Bren42/plotly/blob/main/
+images/cultures_per_sample.png?raw=true)
 
 Finally we added a few more visual customizations. 
 
