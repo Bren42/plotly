@@ -47,6 +47,6 @@ If you would like to view the page and its functionality I have created a github
 
 Here is the webpage version of this readme: https://bren42.github.io/plotly/
 
-Here is the link to the belly button biodiversity page: https://bren42.github.io/plotly/static/
+Here is the link to the belly button biodiversity page: https://bren42.github.io/plotly
 
 
